@@ -1,0 +1,5 @@
+.vscode/
+
+bundle.js*
+
+node_modules/
